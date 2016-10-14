@@ -1,5 +1,5 @@
 
-# DONE in JUPYTER - May be possible translation errors when downloading as a straight python file
+# DONE in JUPYTER with SQL extensions
 
 # In[2]:
 
