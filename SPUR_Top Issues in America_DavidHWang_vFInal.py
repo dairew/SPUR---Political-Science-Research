@@ -1,4 +1,4 @@
-# DONE in JUPYTER - May be possible translation errors when downloading as a straight python file
+# DONE in JUPYTER
 
 # # Top Issues Through History, According to Democrats and Republicans
 
